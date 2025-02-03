@@ -1,1 +1,0 @@
-This is the project for computational Neuroscience where we replicated the graphics of Cortical development and remapping trough Spike-timing-Dependant plasticity (STDP), using our own coding expertise and packages explained/included during class, using their experimental data for plotting.
